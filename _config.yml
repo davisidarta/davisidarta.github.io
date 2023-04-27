@@ -1,0 +1,7 @@
+# Site settings
+title: Davi Sidarta
+description: A blog about life sciences in the 21st century
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
